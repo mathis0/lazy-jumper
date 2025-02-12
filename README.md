@@ -87,6 +87,7 @@ Happy coding! 🚀
 
 ---
 
-## 📂 Screenshots / Demos (Optional)
-If you'd like, you can add a GIF or screenshot demonstrating how the plugin works in action!
+## 📂 Screenshots / Demos 
+![image](https://github.com/user-attachments/assets/b34acf8b-fce9-41fb-befc-88b5280b172c)
+
 
