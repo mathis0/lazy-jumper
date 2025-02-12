@@ -18,7 +18,7 @@ local keymap = {
 	j = "7",
 	k = "8",
 	l = "9",
-	p = "0",
+	[";"] = "0",
 }
 
 -- Function to enter the custom mode
