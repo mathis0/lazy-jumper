@@ -100,7 +100,7 @@ end
 
 -- Setup function to map 'd' to enter the custom mode
 function M.setup()
-	vim.api.nvim_set_keymap("n", "d", "", {
+	vim.api.nvim_set_keymap("n", "ga", "", {
 		noremap = true,
 		callback = M.enter_mode,
 		silent = true,
